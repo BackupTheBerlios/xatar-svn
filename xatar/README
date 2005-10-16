@@ -1,0 +1,5 @@
+XATAR, Xtrasgu Applet for Temperature And Revolutions
+=====================================================
+
+Applet para Gnome 2.x programado en PyGTK que muestra
+la temperatura de un iBook con kernel 2.6.x

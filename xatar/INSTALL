@@ -1,0 +1,8 @@
+Instalación Básica
+==================
+
+make install: Copia los archivos necesarios.
+
+make uninstall: Borra los archivos instalados.
+
+make clean: Prepara el programa para empaquetar.
