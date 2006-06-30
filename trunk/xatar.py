@@ -50,7 +50,7 @@ def about(uicomponent, verb):
    gnome.ui.About("xatar",
                   "v0.0.1",
                   "Copyright 2005 Pablo Lopez Cienfuegos",
-                  ("Xtrasu Applet for Temperature And Revolutions"),
+                  ("Xtrasgu Applet for Temperature And Revolutions"),
                   ["Pablo Lopez Cienfuegos <xtrasgu@asturlinux.org> \nSergio Fdez Lopez <wikier@asturlinux.org>"],
                   ["Programa sin documentar (los comentarios son tus amigos)"],
                   "Programa sin traducir",
